@@ -13,10 +13,12 @@ Table of Contents
 
 
 ## Project Overview
-I've been hired by American Express. 
-As part of a key initiative undertaken by American Express, 
-this project is dedicated to developing a machine-learning model aimed at predicting whether a transaction is fraudulent or legitimate.
-The overarching goal is to enhance the security and reliability of American Express's transaction processing, thereby safeguarding customer interests and maintaining the integrity of their financial well-being.
+I have been hired by Silver Lining Strategies, 
+where our focus is on creating a machine-learning model. 
+This model is specifically designed to determine the authenticity of transactions, 
+distinguishing between legitimate and fraudulent ones. 
+Our primary objective is to boost the security and dependability of transaction processing.
+In doing so, we aim to protect the interests of customers and uphold the stability of their financial health.
 
 
 # Dataset Description
@@ -86,3 +88,4 @@ Thank you for taking a look at my capstone, feel free to connect with me on Link
 
 ## References
 [Credit Card Image](https://unsplash.com/photos/closeup-photo-of-american-express-business-card-on-brown-surface-x8i6FfaZAbs)
+
