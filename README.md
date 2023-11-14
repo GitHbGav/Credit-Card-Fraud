@@ -1,6 +1,6 @@
 # capstone
 # Fraud-Prediction
-![image info](Images/.jpg)
+![image info](Images/CardFruad.jpg)
 
 Table of Contents
 
@@ -13,8 +13,9 @@ Table of Contents
 [***Notebooks:***](#notebooks)
 
 
-Project Overview
-Dataset Description
+## Project Overview
+
+# Dataset Description
 [Data]()
 
 
@@ -22,37 +23,45 @@ Link to the Data's source
 [datasetlink]()
 
 
-Visualisations Using stills
-![image info](Images/)
+## Visualisations Using stills
+![piefraud](Images/piefraud.png)
 
 
 
-![image info](Images)
+![fraudcate](Images/fraudcate.png)
 
 
 
-![image info](Images/.png)
+![topcate](Images/topfivecategories.png)
 
 
 
-![image info](Images/.png)
+![Comfusion Matrix](Images/confusionm.png)
 
 
 
-Conclusion
-Recommendations
-Notebooks
-[Notebooks]([]())
-
-[Notebooks]([]())
-[Notebooks]([]))
+## Conclusion
 
 
+## Recommendations
+-
+-
+-
+## Notebooks
+* [Cleaning](Notebook/Cleaning.ipynb)
+
+* [Exploratory Data Analysis](Notebook/EDA.ipynb)
+
+* [Models](Notebook/Models.ipynb)
 
 
 
-Linkedin
+
+
+## Linkedin
 Gavin Martin <a href = "https://github.com/GitHbGav"><img src='https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png' width = '25' height='25'></a><a href="https://www.linkedin.com/in/gavin-martin-/"><img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' width = '25' height='25'></a>
 
 
-References
+## References
+[Credit Card Image](https://unsplash.com/photos/closeup-photo-of-american-express-business-card-on-brown-surface-x8i6FfaZAbs
+)
