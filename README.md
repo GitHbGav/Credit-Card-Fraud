@@ -89,3 +89,4 @@ Thank you for taking a look at my capstone, feel free to connect with me on Link
 ## References
 [Credit Card Image](https://unsplash.com/photos/closeup-photo-of-american-express-business-card-on-brown-surface-x8i6FfaZAbs)
 
+[Slides are from](https://slidesgo.com/theme/the-piggy-bank-minitheme#search-money+fraud&position-36&results-38&rs=search)
