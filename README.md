@@ -14,16 +14,16 @@ Table of Contents
 
 ## Project Overview
 I have been hired by Silver Lining Strategies, 
-where our focus is on creating a machine-learning model. 
-This model is specifically designed to determine the authenticity of transactions, 
+where our focus is on creating a machine-learning model 
+that is specifically designed to determine the authenticity of transactions, 
 distinguishing between legitimate and fraudulent ones. 
-Our primary objective is to boost the security and dependability of transaction processing.
-In doing so, we aim to protect the interests of customers and uphold the stability of their financial health.
+Our primary objective is to boost the security and dependability of transaction processing,
+and in doing so, we aim to protect the interests of customers and uphold the stability of their financial health.
 
 
-# Dataset Description
-This is a simulated credit card transaction dataset containing legitimate and fraudulent transactions from the duration of 1st Jan 2019 to 31st Dec 2020.
-It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
+## Dataset Description
+This is a simulated credit card transaction dataset containing both legitimate and fraudulent transactions from Jan 1, 2019 to Dec 31, 2020.
+It covers credit cards of 1000 customers processing transactions with a pool of 800 merchants.
 
 [datasetlink](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
@@ -36,7 +36,7 @@ Take a look at how imbalanced this dataset is.
 
 ![fraudcate](Images/fraudcate.png)
 
-In this image, we see a lot of fraudulent purchases we're online or at the grocery store.
+In this image, we see a lot of fraudulent purchases were online or at the grocery store.
 
 
 ![topcate](Images/topfivecategories.png)
@@ -64,11 +64,11 @@ Our goal is to develop a robust system that excels in both detecting fraud and c
 ## Recommendations
 - Continue to make advances in machine learning to help better detect these fraud patterns 
 
-- require two=factor authentication for accounts 
+- Require two-factor authentication for accounts 
 
-- offer a free fraud awareness program
+- Offer a free fraud awareness program
 
-- implement 24/7 support to report fraud and resolve security issues
+- Implement 24/7 support to report fraud and resolve security issues
 
 ## Notebooks
 * [Cleaning](Notebook/Cleaning.ipynb)
